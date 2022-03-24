@@ -9,8 +9,9 @@ Django version (4.0 ) -	Python versions (3.8, 3.9, 3.10)
 Install Django by:
 ### `python -m pip install Django`
 
+### `pip install djangorestframework`
 ### `pip install requests`
-### `pip install requests`
+### `pip install numpy`
 
 Getting project from Github and run project by:
 
