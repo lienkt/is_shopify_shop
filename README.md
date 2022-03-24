@@ -5,9 +5,8 @@ https://www.python.org/downloads/
 ### python --version
 
 What Python version can I use with Django?
-Django version	Python versions
-4.0          	3.8, 3.9, 3.10
-
+Django version (4.0 ) -	Python versions (3.8, 3.9, 3.10)
+         	
 Install Django by:
 ### python -m pip install Django
 ### python -m django --version
