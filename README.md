@@ -1,0 +1,1 @@
+# is_shopify_shop
