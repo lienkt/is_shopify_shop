@@ -15,6 +15,7 @@ Install Django by:
 
 Getting project from Github and run project by:
 
+### `cd mysite`
 ### `python manage.py runserver`
 
 # Exercise 1: is_shopify_shop
